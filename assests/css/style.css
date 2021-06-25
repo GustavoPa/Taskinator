@@ -32,6 +32,9 @@ header p {
   margin: 5px 0 20px;
   font-size: 2rem;
 }
+header .btn{
+  margin-top: 5px;
+}
 
 p,
 li {
